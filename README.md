@@ -17,7 +17,7 @@ allprojects {
 
 ```Gradle
 dependencies {
-	implementation 'com.github.Tobibur:KtxCommonExtensions:1.0.0'
+	implementation 'com.github.Tobibur:KtxCommonExtensions:1.0.1'
 }
 ```
 [![](https://jitpack.io/v/Tobibur/KtxCommonExtensions.svg)](https://jitpack.io/#Tobibur/KtxCommonExtensions)
