@@ -1,6 +1,19 @@
 # KtxCommonExtensions
 
-### Add the dependency
+## Add the dependency
+
+### Add it in your root build.gradle at the end of repositories:
+
+```Grale
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+###  Add the dependency
 
 ```Gradle
 dependencies {
